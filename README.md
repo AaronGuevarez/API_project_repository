@@ -1,2 +1,2 @@
-# API_project_repository
-made by Aaron, Boyan, & Aidan
+# API_project
+made by Aaron, Boyan, & Aidan. 
